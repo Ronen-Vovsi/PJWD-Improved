@@ -18,4 +18,4 @@ These instructions are for VScode (Visual Studio Code)
 5. In the terminal type: npm start
     Click enter.
 
-6. Now go to localhost5000. Now you should be able to see the application and use it.
+6. Now go to localhost:8000. Now you should be able to see the application and use it.
