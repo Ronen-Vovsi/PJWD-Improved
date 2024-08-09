@@ -15,7 +15,9 @@ These instructions are for VScode (Visual Studio Code)
         1. On the top you should find "Terminal"
         2. Click on "Terminal" and click "New Terminal"
 
-5. In the terminal type: npm start
+5. If there are any vulnurabilities, in the terminal type: npm audit fix
+
+6. In the terminal type: npm start
     Click enter.
 
-6. Now go to localhost:8000. Now you should be able to see the application and use it.
+7. Now go to localhost:8000. Now you should be able to see the application and use it.
